@@ -1,3 +1,1 @@
-export const useExpenseTrackerDashboardLifecycles = () => {
-  // Dashboard flow-level side effects
-};
+export { useExpenseTrackerDashboardLifecycles } from './expense-tracker-dashboard.lifecycles';

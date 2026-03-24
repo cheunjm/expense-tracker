@@ -1,1 +1,1 @@
-export { useDashboardStore } from './dashboard.store';
+export { useDashboardStore } from './expense-tracker-dashboard.models';
