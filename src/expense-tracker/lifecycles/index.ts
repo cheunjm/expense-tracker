@@ -1,3 +1,1 @@
-export const useExpenseTrackerLifecycles = () => {
-  // Experience-level side effects (mount, unmount, subscriptions)
-};
+export { useExpenseTrackerLifecycles } from './expense-tracker.lifecycles';

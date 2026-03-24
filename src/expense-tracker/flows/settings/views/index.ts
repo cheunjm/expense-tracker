@@ -1,1 +1,1 @@
-// Settings flow-level views
+export {} from './expense-tracker-settings.views';

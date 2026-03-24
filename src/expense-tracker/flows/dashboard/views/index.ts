@@ -1,1 +1,1 @@
-// Dashboard flow-level views
+export {} from './expense-tracker-dashboard.views';

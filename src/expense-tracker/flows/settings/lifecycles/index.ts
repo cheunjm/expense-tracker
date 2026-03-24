@@ -1,3 +1,1 @@
-export const useExpenseTrackerSettingsLifecycles = () => {
-  // Settings flow-level side effects
-};
+export { useExpenseTrackerSettingsLifecycles } from './expense-tracker-settings.lifecycles';
