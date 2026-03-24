@@ -1,3 +1,4 @@
+export { ExpenseTrackerExperience } from './expense-tracker.experience';
 export {
   useExpenseTrackerStore,
 } from './models';

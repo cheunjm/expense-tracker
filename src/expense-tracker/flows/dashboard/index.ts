@@ -1,3 +1,4 @@
+export { ExpenseTrackerDashboardFlow } from './expense-tracker-dashboard.flow';
 export { useDashboardStore } from './models';
 export { ExpenseTrackerDashboardHomeContainer } from './containers/home';
 export { ExpenseTrackerDashboardTransactionsContainer } from './containers/transactions';

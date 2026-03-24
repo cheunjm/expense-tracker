@@ -22,7 +22,7 @@ export const HomeViews = memo(({ summary }: HomeViewsProps) => {
       </View>
       <Pressable
         style={styles.settingsButton}
-        onPress={() => router.push('/(settings)/categories')}
+        onPress={() => router.push('/(expense-tracker)/(settings)/categories')}
       >
         <Text style={styles.settingsButtonText}>View Settings</Text>
       </Pressable>
