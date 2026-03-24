@@ -1,0 +1,15 @@
+{
+  "name": "@expense-tracker/infra",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@pulumi/docker-build": "^0.0.7",
+    "@pulumi/pulumi": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.2"
+  }
+}
